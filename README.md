@@ -1,5 +1,5 @@
-- Hi, I’m ISMAIL OZCAN
-- I’m interested in front-end developing. 
+- Hi I'm İsmail ÖZCAN
+- I interested in front-end developing. 
 - I’m currently learning HTML,CSS and JAVASCRIPT
 
 - Also I'm lawyer at İstanbul province. I interested in the legal side of developing and coding as well. 
